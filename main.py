@@ -1,1 +1,0 @@
-print('kocham wat')
